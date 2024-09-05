@@ -1,5 +1,5 @@
 G11_MPC is the optimal power split control.
-Equal, Consec and Rule Based controls are benchmark strategies
+equal, consq and rulebased controls are benchmark strategies
 ECM is the thevenin ECM for benchmark strategies
 ECM_MPC is modified for G11_MPC
 1D temperature code estimates FDM for a 2 string battery system
